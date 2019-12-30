@@ -8,16 +8,23 @@
 - [ ] 原始碼及數據
     - 建立一個**資料夾** `src/`，將所有 Rscript、相依檔案 (例如，原始資料) 以及數據 (分析產出之資料) 置於 `src/` 內
     - `src/` 內的檔案結構請自行決定，但**其內必須有一個 `README.md`**，用以簡要說明每個 Rscript 的功用以及產出之資料的內容
-    (`src/README.md` 是原始碼的說明文件)
+    (`src/README.md` 即是原始碼的說明文件)
 - [ ] 書面報告
     - 檔名：`G<組別>_report` (例: `G01_report.pdf`)
     - 格式：`.pdf`
+    - 請將此檔案放在此 repo 根目錄
 - [ ] 海報 (海報組)
     - 檔名：`G<組別>_poster` (例: `G01_poster.pdf`)
     - 格式：`.pdf`
+    - 請將此檔案放在此 repo 根目錄
 - [ ] 投影片 (口頭報告組)
     - 檔名：`G<組別>_slides` (例：`G01_slides.pdf`)
     - 格式：`.pdf`、`.html` 或 `.pptx`
+    - 請將此檔案放在此 repo 根目錄
+
+#### 專案 Repo 範例
+
+若對於 repo 上傳之後的樣子或如何組織 `src/` 沒有頭緒，可參考[此範例 repo](https://github.com/rlads2019/project-template)。此 Repo 可做為同學組織期末專案檔案結構的模板
 
 
 ## 繳交方式
@@ -25,7 +32,7 @@
 每組**組長**請至 <https://classroom.github.com/a/w2D5dQCg> 接受作業邀請 (方式同個人作業繳交)。  
 領取之後，組長即可透過 GitHub Desktop 將檔案 Push 至 GitHub。
 
-### 死限
+#### 死限
 
 請於 **2020-01-12 23:59** 前完成所有項目的上傳 (遲交不予計分)。
 
