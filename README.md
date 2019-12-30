@@ -22,7 +22,7 @@
     - 格式：`.pdf`、`.html` 或 `.pptx`
     - 請將此檔案放在此 repo 根目錄
 
-#### 專案 Repo 範例
+### 專案 Repo 範例
 
 若對於 repo 上傳之後的樣子或如何組織 `src/` 沒有頭緒，可參考[此範例 repo](https://github.com/rlads2019/project-template)。此 repo 可做為同學組織期末專案檔案結構的模板
 
@@ -32,7 +32,7 @@
 每組**組長**請至 <https://classroom.github.com/a/w2D5dQCg> 接受作業邀請 (方式同個人作業繳交)。  
 領取之後，組長即可透過 GitHub Desktop 將檔案 Push 至 GitHub。
 
-#### 死限
+### 死限
 
 請於 **2020-01-12 23:59** 前完成所有項目的上傳 (遲交不予計分)。
 
