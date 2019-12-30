@@ -46,6 +46,9 @@ pagedown::chrome_print("index.html")
 
 請簡要說明你們的專案
 
+```{r, fig.cap='A bar chart'}
+knitr::include_graphics("fig/relative_status_bar.png")
+```
 
 方法
 =====================
@@ -56,16 +59,16 @@ pagedown::chrome_print("index.html")
 
 ## 原始碼運作說明
 
+```{r, fig.cap='iris scatter plot'}
+knitr::include_graphics("fig/iris_scatter.png")
+```
+
 
 結果
 =====================
 
 請在這裡寫下結果。請在這裡寫下結果。請在這裡寫下結果。請在這裡寫下結果。請在這裡寫下結果。請在這裡寫下結果。
 
-```{r, fig.cap='A bar chart'}
-# 關於變數 pl, 見 R/analysis.R
-knitr::include_graphics("fig/relative_status_bar.png")
-```
 
 
 討論與貢獻
